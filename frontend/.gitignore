@@ -1,15 +1,4 @@
-venv
-.venv
-/.idea
-*.pdf
-*.db
-personal_notes.txt
-
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
